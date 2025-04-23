@@ -1,0 +1,5 @@
+# Ignorar archivos ejecutables generados por compilación
+*.exe
+
+# Ignorar archivos generados por editores como VSCode
+.vscode/
