@@ -1,6 +1,6 @@
-Trabajo 00 - Cpp Hello World
-
-Primer trabajo en c++ que imprime "Hello, World!" en consola.
-
-Lenguaje: C++
-Version del Compilador: g++ 14.1.00
+Algoritmos y Estructuras de Datos
+• Curso: K1053
+• Año de cursada: 1er año
+• Legajo: 203.790-7
+• Apellido: Lourido
+• Nombre: Gabriel
